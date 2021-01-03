@@ -6,6 +6,7 @@ let MSGS = {
     fr: 'Mouvement',
     el: 'Κίνηση',
     nl: 'Beweging',
+		de: 'Bewegung',
   },
   '#blk-motor#': {
     en: 'Motor',
@@ -14,6 +15,7 @@ let MSGS = {
     fr: 'Moteur',
     el: 'Κινητήρες',
     nl: 'Motor',
+		de: 'Motor',
   },
   '#blk-sensors#': {
     en: 'Sensors',
@@ -22,6 +24,7 @@ let MSGS = {
     fr: 'Capteurs',
     el: 'Αισθητήρες',
     nl: 'Sensoren',
+		de: 'Sensor',
   },
   '#blk-sound#': {
     en: 'Sound',
@@ -30,6 +33,7 @@ let MSGS = {
     fr: 'Sons',
     el: 'Ήχος',
     nl: 'Geluid',
+		de: 'Ton',
   },
   '#blk-control#': {
     en: 'Control',
@@ -38,6 +42,7 @@ let MSGS = {
     fr: 'Contrôle',
     el: 'Έλεγχος',
     nl: 'Controle',
+		de: 'Kontrolle',
   },
   '#blk-logic#': {
     en: 'Logic',
@@ -46,6 +51,7 @@ let MSGS = {
     fr: 'Logique',
     el: 'Λογική',
     nl: 'Logica',
+		de: 'Logik',
   },
   '#blk-loops#': {
     en: 'Loops',
@@ -54,6 +60,7 @@ let MSGS = {
     fr: 'Boucles',
     el: 'Επανάληψη',
     nl: 'Lussen',
+		de: 'Schleife',
   },
   '#blk-math#': {
     en: 'Math',
@@ -62,6 +69,7 @@ let MSGS = {
     fr: 'Maths',
     el: 'Μαθηματικά',
     nl: 'Rekenen',
+		de: 'Mathematik',
   },
   '#blk-text#': {
     en: 'Text',
@@ -70,6 +78,7 @@ let MSGS = {
     fr: 'Texte',
     el: 'Κείμενο',
     nl: 'Tekst',
+		de: 'Text',
   },
   '#blk-lists#': {
     en: 'Lists',
@@ -78,6 +87,7 @@ let MSGS = {
     fr: 'Listes',
     el: 'Λίστες',
     nl: 'Lijsten',
+		de: 'Listen',
   },
   '#blk-variables#': {
     en: 'Variables',
@@ -86,6 +96,7 @@ let MSGS = {
     fr: 'Variables',
     el: 'Μεταβλητές',
     nl: 'Variabelen',
+		de: 'Variabeln',
   },
   '#blk-functions#': {
     en: 'Functions',
@@ -94,6 +105,7 @@ let MSGS = {
     fr: 'Fonctions',
     el: 'Συναρτήσεις',
     nl: 'Functies',
+		de: 'Funktionen',
   },
   '#blk-when_started#': {
     en: 'When Started',
@@ -101,36 +113,42 @@ let MSGS = {
     fr: 'Au démarrage',
     el: 'Κατά την εκκίνηση',
     nl: 'Als gestart',
+		de: 'Wenn gestartet',
   },
   '#blk-sleep_for#': {
     en: 'sleep for',
     fr: 'attendre jusqu\'à',
     el: 'περίμενε για',
     nl: 'slaap voor',
+		de: 'schlafe für',
   },
   '#blk-seconds#': {
     en: 'seconds',
     fr: 'secondes',
     el: 'δευτερόλεπτα',
     nl: 'seconden',
+		de: 'Sekunden',
   },
   '#blk-milliseconds#': {
     en: 'milliseconds',
     fr: 'millisecondes',
     el: 'χιλιοστά του δευτερολέπτου',
     nl: 'milliseconden',
+		de: 'Millisekunden',
   },
   '#blk-stop_moving_and#': {
     en: 'stop moving and',
     fr: 'arrêter d\'avancer et',
     el: 'σταμάτα την κίνηση και',
     nl: 'stop beweging en',
+		de: 'stoppe Bewegung und',
   },
   '#blk-brake#': {
     en: 'brake',
     fr: 'freiner',
     el: 'διακοπή και έξοδος',
     nl: 'remmen',
+		de: 'bremsen',
   },
   '#blk-coast#': {
     en: 'coast',
